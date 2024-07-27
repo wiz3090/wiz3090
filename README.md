@@ -4,7 +4,7 @@
 </div>
 <h3 align="center">A passionate frontend developer and java developer.</h3>
 
-I’m an undergraduate engineering student, pursuing my B.Tech in Information Technology.
+I’m an undergraduate engineering student, pursuing my B.Tech in Computer science and engineering.
 I'm a passionate learner who's always willing to learn and work across technologies and domains.
 I love to explore new technologies and leverage them to solve real-life problems.
 I'm currently into Java development and full-stack and working on my Data Structures and Algorithms.
