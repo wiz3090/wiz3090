@@ -12,7 +12,7 @@ I'm currently into Java development and full-stack and working on my Data Struct
 
 - 🔭 I’m currently working on web-development [Farmland mangement](https://github.com/wiz3090/farmland-management-)
 
-- 🌱 I’m currently Machine learning **🅽🅴🆇🆃 𝐉𝐒 & B L O C K C H A I N**
+- 🌱 I’m currently learning ** MACHINE LEARNING , 🅽🅴🆇🆃 𝐉𝐒 & B L O C K C H A I N**
 
 - 👨‍💻 All of my projects are available at [to be uploaded](to be uploaded)
 
